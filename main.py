@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import os
-import re
 
 url = "https://booktoki169.com/novel/1756437"
 
