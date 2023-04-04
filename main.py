@@ -1,3 +1,5 @@
+# As far as I'm aware, as of 4th of april 2023, this doesn't work anymore in booktoki169.com
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import os
